@@ -1,0 +1,22 @@
+body{
+
+    background: url(/img/aof3quixotic-temple2.gif);
+    height: 97vh;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.div{
+    height: 90vh;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+.iron{
+    position: relative;
+    height: 30vh;
+    transform: rotate3d(0,5,0,180deg)
+}
+.america{
+    height: 30vh;
+}
